@@ -13,4 +13,5 @@ I had a great time making it.
 - Modern design  
 - Interviews list is shown as buttons
 - Clicking the button opens a popup with all the info about the interview
-
+- Shows updatedOn date as dd-MM-yyyy hh-mm-ss
+- Shows interviewTime date as dd-mm-yyyy hh-mm
